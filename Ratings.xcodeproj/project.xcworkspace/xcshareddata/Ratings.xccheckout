@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>12D74792-4EF4-418A-8C18-FD9F1E8452B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ratings</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>509BC8F6E0B91FE1C16C04F9922679DC1C4B1EDB</key>
+		<string>github.com:edguz2408/IOSRatings.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ratings.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>509BC8F6E0B91FE1C16C04F9922679DC1C4B1EDB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:edguz2408/IOSRatings.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>509BC8F6E0B91FE1C16C04F9922679DC1C4B1EDB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>509BC8F6E0B91FE1C16C04F9922679DC1C4B1EDB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ratings</string>
+		</dict>
+	</array>
+</dict>
+</plist>
